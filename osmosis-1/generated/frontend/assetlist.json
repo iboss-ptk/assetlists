@@ -21054,6 +21054,31 @@
       "disabled": false,
       "preview": false,
       "listingDate": "2024-05-21T11:07:05.000Z"
+    },
+    {
+      "chainName": "osmosis",
+      "sourceDenom": "factory/osmo1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrsll0sqv/alloyed/xxx",
+      "coinMinimalDenom": "factory/osmo1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrsll0sqv/alloyed/xxx",
+      "symbol": "XXX",
+      "decimals": 1,
+      "logoURIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/COCA.png"
+      },
+      "price": {
+        "poolId": "2",
+        "denom": "uosmo"
+      },
+      "categories": [
+        "alloyed"
+      ],
+      "transferMethods": [],
+      "counterparty": [],
+      "name": "XXX",
+      "verified": false,
+      "unstable": false,
+      "disabled": false,
+      "preview": false,
+      "listingDate": "2024-05-21T11:07:05.000Z"
     }
   ]
 }
